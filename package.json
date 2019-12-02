@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@git.dian.so:fed/eslint-config-dian.git"
+    "url": "git@github.com:zhixiaoqiang/eslint-config.git"
   },
   "dependencies": {
     "babel-eslint": "^10.0.3",
@@ -28,5 +28,12 @@
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-react-hooks": "^2.3.0",
     "eslint-plugin-standard": "^4.0.1"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "dayjs": "^1.8.17",
+    "execa": "^3.2.0",
+    "inquirer": "^7.0.0",
+    "semver": "^6.3.0"
   }
 }

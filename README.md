@@ -1,6 +1,6 @@
 # `@jzone/eslint-config`
 
-> 小电中后台代码 eslint 统一规范
+> An ESLint Shareable Config 
 
 ## Usage
 
