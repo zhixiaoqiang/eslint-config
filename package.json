@@ -1,0 +1,32 @@
+{
+  "name": "@jzone/eslint-config",
+  "version": "1.0.0",
+  "description": "An ESLint Shareable Config",
+  "main": "index.js",
+  "author": "zhixiaoqiang",
+  "license": "MIT",
+  "scripts": {
+    "prod": "node scripts/prod",
+    "release": "node scripts/release",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "config",
+    "eslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@git.dian.so:fed/eslint-config-dian.git"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-config-standard-jsx": "^8.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
