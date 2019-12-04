@@ -1,12 +1,18 @@
-# `@jzone/eslint-config`
+# @jzone/eslint-config
 
 > An ESLint Shareable Config 
 
-## Usage
+## Install
 
 ```bash
+# npm
+npm install @jzone/eslint-config -D
+
+# yarn
 yarn add @jzone/eslint-config -D
 ```
+
+## Webpack Usage
 
 ```js
 // .eslintrc.js
