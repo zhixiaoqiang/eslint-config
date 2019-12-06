@@ -41,10 +41,7 @@ module.exports = {
         // 'sort-keys': 'error',
         // 'object-shorthand': 'error',
         "jsx-quotes": ["error", "prefer-double"],
-        'comma-dangle': ['error', {
-            "imports": "never",
-            "functions": "never",
-        }], // 尾逗号
+        'comma-dangle': ['error', 'always-multiline'], // 尾逗号
         'react/jsx-closing-tag-location': 0,
         'react/jsx-closing-bracket-location': [1, 'line-aligned'],
         "react-hooks/rules-of-hooks": "error",
