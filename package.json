@@ -1,6 +1,6 @@
 {
   "name": "@jzone/eslint-config",
-  "version": "1.0.8",
+  "version": "1.0.7",
   "description": "An ESLint Shareable Config",
   "main": "index.js",
   "author": "zhixiaoqiang",
