@@ -38,7 +38,7 @@ module.exports = {
         'no-this-before-super': 'error',
         'no-unused-vars': 'error',
         'no-use-before-define': 'error',
-        'sort-keys': 'error',
+        // 'sort-keys': 'error',
         'object-shorthand': 'error',
         "jsx-quotes": ["error", "prefer-double"],
         'comma-dangle': ['error', {
